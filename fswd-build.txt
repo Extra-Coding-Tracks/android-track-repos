@@ -1,0 +1,6 @@
+Build Week Repositories for Full Stack Web Development
+
+1 - https://github.com/2-water-my-plants/iOS
+2 - https://github.com/2-water-my-plants/react
+3 - https://github.com/2-water-my-plants/UI
+4 - https://github.com/2-water-my-plants/backend
